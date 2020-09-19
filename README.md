@@ -1,1 +1,2 @@
 # COVID-19-Excel
+Downloaded the Covid-19 case and death data from data.european.eu and used Microsoft Excel to create interactive dashboard. In another repository, I have tried using python to automate the codes and run charts using pandas and plotly. In this project I have used excel's pivot table function to create tables and insert appropriate slices for the values. To make the data user friendly and understandable, I have created a dashboard sheet with the charts and slicers. Users can use the slicers to filter data for a specific country, continent and date. 
